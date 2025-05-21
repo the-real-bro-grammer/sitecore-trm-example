@@ -7,6 +7,8 @@
 # Ephemeral index caches used by serialization, do not commit
 .scindex
 
+.env.local
+
 # Don't commit packages
 *.itempackage
 *.sicpackage
