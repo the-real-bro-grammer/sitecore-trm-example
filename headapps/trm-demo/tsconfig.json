@@ -33,6 +33,6 @@
     "incremental": true,
     "forceConsistentCasingInFileNames": false
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/types/.generated/Models.ts"],
   "exclude": ["node_modules"]
 }

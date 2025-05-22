@@ -44,3 +44,4 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+headapps/trm-demo/package-lock.json
